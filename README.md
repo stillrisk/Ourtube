@@ -65,19 +65,15 @@ https://ble.ir/ourtubebot
 
 ## 🔧 پروژه های دیگر مشابه
 
--  دانلودر گیتهابی برای دانلود کردن هر نوع فایلی و منتقل کردن آن به داخل گیتهاب : 
+- 🎉 دانلود فایل با نت ملی با استفاده از گیتهاب :‌
 
-🔗 https://github.com/nikzad-avasam/downloader
+🔗 https://github.com/nikzad-avasam/UDL-3
 
-- دانلودر یوتیوبی به گیتهاب 
-
-🔗 https://github.com/nikzad-avasam/youtube-dl
-
-- کانال پیام رسان بله برای آموزش های بیشتر 
+- 🎉 کانال پیام رسان بله برای دریافت اطلاعیه ها و بروزرسانی های جدید :‌
 
 🔗 https://ble.ir/avasam_edu
 
-- ویدیو آموزش استفاده از این ابزار 
+- ویدیو آموزش استفاده از این ابزار :
 
 🔗 https://avasam.ir/post/youtube-downloader-by-github
 
